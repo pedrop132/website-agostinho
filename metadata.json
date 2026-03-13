@@ -1,0 +1,5 @@
+{
+  "name": "Agostinho Raimundo Reparações",
+  "description": "Serviços de assistência 24h em Lisboa, Margem Sul e arredores. Especialistas em desentupimentos, portas, eletricidade e estores.",
+  "requestFramePermissions": ["geolocation"]
+}
